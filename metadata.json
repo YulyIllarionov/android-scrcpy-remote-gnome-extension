@@ -1,0 +1,8 @@
+{
+  "name": "Android Scrcpy Remote",
+  "description": "Scrcpy launcher",
+  "uuid": "android-scrcpy-remote@yulyillarionov.gmail.com",
+  "shell-version": [
+    "3.38"
+  ]
+}
